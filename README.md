@@ -1,4 +1,4 @@
-**FACEMASK DETECTION SYSTEM REPORT– RAJAT KUMAR**
+**FACEMASK DETECTION SYSTEM **
 =================================================
 
 MODULE 1 : HUMAN DETECTION USING YOLO
