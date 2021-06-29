@@ -1,4 +1,4 @@
-**FACEMASK DETECTION SYSTEM **
+**FACEMASK DETECTION SYSTEM**
 =================================================
 
 MODULE 1 : HUMAN DETECTION USING YOLO
