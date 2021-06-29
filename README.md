@@ -31,7 +31,7 @@ RESULTS OF YOLO AND VOILA JONES FACE DETECTION
 ----------------------------------------------
 
 ![](media/Picture1.png){width="3.8107720909886265in"
-height="3.15625in"}![](media/image2.png){width="2.1512795275590553in"
+height="3.15625in"}![](media/Picture2.png){width="2.1512795275590553in"
 height="3.5681824146981627in"}
 
 In the above example both the algo are used to detect person and faces
@@ -73,7 +73,7 @@ test and train data sets.
 
 **CONVULATIONAL NEURAL NET STRUCTURE**
 
-![](media/image3.png){width="6.268055555555556in"
+![](media/Picture3.png){width="6.268055555555556in"
 height="2.392361111111111in"}
 
 Our CNN has 2 Convolutional layers and 2 Fully connected layers. Here we
@@ -130,7 +130,7 @@ types of masks for the model to train on.
 
 **FACE DETECTION ON IMAGES**
 
-![](media/image4.png){width="5.302083333333333in"
+![](media/Picture4.png){width="5.302083333333333in"
 height="2.369078083989501in"}
 
 First we use Voila Jones algorithm to find faces in the image then we
@@ -138,9 +138,9 @@ crop out the face from the image and resize it to 100 X 100 and then
 pass it to out CNN model to check weather the person is wearing mask or
 not..
 
-![](media/image5.png){width="2.2685181539807524in"
+![](media/Picture5.png){width="2.2685181539807524in"
 height="2.955631014873141in"}
-![](media/image6.png){width="2.287036307961505in"
+![](media/Picture6.png){width="2.287036307961505in"
 height="2.946971784776903in"}
 
 **FACE DETECTION ON LIVE FEED FROM WEBCAM**
@@ -151,6 +151,6 @@ method the detect mask on faces.
 
 RESULT ON DIFFERENT FACES FROM LIVE FEED FORM WEB CAM
 
-![](media/image7.png){width="2.6944444444444446in"
-height="2.1444444444444444in"}![](media/image8.png){width="2.661111111111111in"
+![](media/Picture7.png){width="2.6944444444444446in"
+height="2.1444444444444444in"}![](media/Picture8.png){width="2.661111111111111in"
 height="2.138888888888889in"}
