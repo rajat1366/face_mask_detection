@@ -112,10 +112,13 @@ is size 2 as this is a binary classification problem weather, we are
 wearing mask or not.
 
 **RESULTS ON TRAIN AND TEST DATA**
-
-                  **TRAIN DATA**   **TEST DATA**
-  --------------- ---------------- ---------------
-  **ACCURACY **   **99.36%**       **97.46%**
+  **ACCURACY **  
+  
+  **TRAIN DATA** 
+  **99.36%** 
+  
+  **TEST DATA**
+  **97.46%**
 
 As we have seen the CNN performs very well on the train and the test
 data set. But one issue with the dataset was that image in the dataset
