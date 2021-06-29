@@ -91,7 +91,7 @@ OUTPUT SIZE – 200 X 98 X 98
 
 OUTPUT of MAX pool layers – 200 X 49 X 49
 
-**2nd CONVOLUTIONAL LAYER – **
+**2nd CONVOLUTIONAL LAYER** -
 
 Output of previous layers 100 filter are applied and the output is of
 size 47 X 47 and kernel of size 3 X 3 is used the output is passed
@@ -103,7 +103,7 @@ OUTPUT SIZE - 100 X 47 X 47
 
 OUTPUT of MAX pool layer – 100 X 23 X 23
 
-**FCC LAYERS –** The output of the 2nd convolutional layers is flatten
+**FCC LAYERS** - The output of the 2nd convolutional layers is flatten
 out to size 100 X 23 X 23 = 52900. So now each image is of size 52900
 size vector. Which is connect to next FCC layer of Size 50.
 
